@@ -1,16 +1,17 @@
-## Hi there 👋
+![NextStepAI](banner.png)
 
-<!--
-**nextstepai1/nextstepai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Yaro 👋
 
-Here are some ideas to get you started:
+I explore what's next with AI: tools, agents and automation, explained without hype.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What you'll find here**
+
+- AI tools and open-source repos I feature on X, with install steps
+- Small experiments with AI agents
+- Templates for the animated videos I make for my posts
+
+**Follow along**
+
+[![X](https://img.shields.io/badge/X-@NextStepAI1-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NextStepAI1)
+
+New AI tool breakdowns every week.
